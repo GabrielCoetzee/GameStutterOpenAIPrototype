@@ -41,6 +41,7 @@ while (true)
     {
         var response = await openAIService.SendPromptAsync(chatSession.GetMessages(), openAISettings?.ApiKey);
 
+        Console.WriteLine(Environment.NewLine);
         Console.WriteLine($"OpenAI: {response}");
 
         chatSession.AddMessage("assistant", response);
