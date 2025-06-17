@@ -5,7 +5,7 @@ VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StutterFix", "StutterFix\StutterFix.csproj", "{36CD4733-5CF2-CAA4-0FED-DB9DD3ED72B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integration.AI", "Integration.AI\Integration.AI.csproj", "{29717C32-39CA-4EDA-97F9-AB172FCACE1E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integration.OpenAI", "Integration.OpenAI\Integration.OpenAI.csproj", "{4D315915-613E-A7E5-FAA9-6AFCFB4E086B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{29717C32-39CA-4EDA-97F9-AB172FCACE1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{29717C32-39CA-4EDA-97F9-AB172FCACE1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{29717C32-39CA-4EDA-97F9-AB172FCACE1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{29717C32-39CA-4EDA-97F9-AB172FCACE1E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{36CD4733-5CF2-CAA4-0FED-DB9DD3ED72B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{36CD4733-5CF2-CAA4-0FED-DB9DD3ED72B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36CD4733-5CF2-CAA4-0FED-DB9DD3ED72B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36CD4733-5CF2-CAA4-0FED-DB9DD3ED72B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D315915-613E-A7E5-FAA9-6AFCFB4E086B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D315915-613E-A7E5-FAA9-6AFCFB4E086B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D315915-613E-A7E5-FAA9-6AFCFB4E086B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D315915-613E-A7E5-FAA9-6AFCFB4E086B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
