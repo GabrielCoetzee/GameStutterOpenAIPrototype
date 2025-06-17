@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Integration.AI/bin/Debug/net9.0
+/Integration.AI/obj
+/StutterFix/bin/Debug/net9.0
+/StutterFix/obj
